@@ -8,7 +8,10 @@
 }
 
 .carousel-item {
-    padding: 20px 40px;
+    padding: 20px 80px;
+}
+.carousel-item img {
+    width: 200px;
 }
 .price {
     color: #ff136f;
