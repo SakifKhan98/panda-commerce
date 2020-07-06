@@ -22,3 +22,45 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1 {
+    background-image: linear-gradient(to left, #99ff99 0%, #00ccff 100% );
+
+}
+.cat2 {
+    background-image: linear-gradient(to left, #ffccff 0%, #3399ff 100% );
+
+}
+.cat3 {
+    background-image: linear-gradient(to left, #ff9933 0%, #cc00ff 100% );
+
+}
+.categories h1 {
+    color: #fff;
+}
+.categories img {
+    width: 100px;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+#contact {
+    height: 300px;
+}
+
+#contact h6 {
+    color: gray;
+}
+
+footer {
+    text-align: center;
+}
